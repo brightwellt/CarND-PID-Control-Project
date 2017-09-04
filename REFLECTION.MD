@@ -1,6 +1,6 @@
-CarND-PID-Control-Project
-Student reflections on tuning PID.
-Thomas Brightwell, September 2017
+# CarND-PID-Control-Project
+## Student reflections on tuning PID.
+## Thomas Brightwell, September 2017
 
 I do have some real world experience with PIDs. The one I tend to remember is when we used to test McLaren F1 engines. The engines had to be tested at very particular atmospheric conditions (temperature, pressure, humidity), so we used PID controllers to regulate the air going into each test cell. We were able to gather live data, and watch the effect of the tuning on the system live.
 
@@ -17,6 +17,6 @@ By the end of the video I was at Kp 0.1, Ki 0, Kd 5, which was pretty close to m
 Integral errors are additive over time, so I wanted a very small value here.
 
 Once happy with the values, I recorded a video of a lap of the simulator,
-output_video.mp4
+[Output Video](https://github.com/brightwellt/CarND-PID-Control-Project/output_video.mp4)
 which can be found in the github repository.
 
