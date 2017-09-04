@@ -17,6 +17,6 @@ By the end of the video I was at Kp 0.1, Ki 0, Kd 5, which was pretty close to m
 Integral errors are additive over time, so I wanted a very small value here.
 
 Once happy with the values, I recorded a video of a lap of the simulator,
-[Output Video](https://github.com/brightwellt/CarND-PID-Control-Project/output_video.mp4)
+[Output Video](https://github.com/brightwellt/CarND-PID-Control-Project/blob/master/output_video.mp4)
 which can be found in the github repository.
 
